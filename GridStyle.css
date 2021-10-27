@@ -22,8 +22,13 @@
     /* grid-template-areas: 'a b c' 'd e f' 'g h i'; */
     /* grid-auto-flow: column dense; */
     /* 容器属性 */
-    justify-items: center;
-    align-items: center;
+    /* justify-items: center;
+    align-items: center; */
+    /* place-items: center; */
+    /* 对齐整个内容-水平 */
+    /* justify-content: center; */
+    /* 对齐整个内容-垂直 */
+    /* align-content: center; */
 }
 
 .item-1 {
