@@ -154,6 +154,16 @@ table {
     display: inline-block;
 }
 
+.col3 {
+    width: 32.36%;
+    height: 40px;
+    background-color: aquamarine;
+    color: brown;
+    display: inline-block;
+    margin: 1% 0 1% 1.2%;
+    text-align: center;
+}
+
 .col1:first-of-type {
     margin: 1% 0 1% 0px;
 }
