@@ -19,8 +19,11 @@
     column-gap: 2%; */
     /* define area to form a group */
     /* using a letter to express a grid, any letter works */
-    grid-template-areas: 'a b c' 'd e f' 'g h i';
-    grid-auto-flow: column;
+    /* grid-template-areas: 'a b c' 'd e f' 'g h i'; */
+    /* grid-auto-flow: column dense; */
+    /* 容器属性 */
+    justify-items: center;
+    align-items: center;
 }
 
 .item-1 {
