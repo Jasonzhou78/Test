@@ -5,7 +5,7 @@
     height: 600px;
     border: 10px solid skyblue;
     grid-template-columns: 100px 100px 100px;
-    grid-template-rows: 100px 100px 100px 100px;
+    /* grid-template-rows: 100px 100px 100px 100px; */
 }
 
 .item-1 {
@@ -24,5 +24,36 @@
 }
 
 .item-4 {
-    background-color: springgreen font-size: 50px;
+    background-color: springgreen;
+    font-size: 50px;
+}
+
+.item-5 {
+    background-color: teal;
+    font-size: 50px;
+}
+
+.item-6 {
+    background-color: violet;
+    font-size: 50px;
+}
+
+.item-7 {
+    background-color: wheat;
+    font-size: 50px;
+}
+
+.item-8 {
+    background-color: yellow;
+    font-size: 50px;
+}
+
+.item-9 {
+    background-color: yellowgreen;
+    font-size: 50px;
+}
+
+.item-10 {
+    background-color: turquoise;
+    font-size: 50px;
 }
