@@ -5,7 +5,7 @@
     height: 600px;
     border: 10px solid skyblue;
     grid-template-columns: 100px 100px 100px;
-    /* grid-template-rows: 100px 100px 100px 100px; */
+    grid-template-rows: 100px 100px 100px 100px;
 }
 
 .item-1 {
