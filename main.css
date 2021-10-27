@@ -12,7 +12,7 @@
     height: 40px;
     width: 15.33%;
     background-color: grey;
-    color: black;
+    color: springgreen;
     display: inline-block;
 }
 
@@ -25,4 +25,9 @@
 
 .col:first-child {
     margin-left: 0;
+}
+
+div#container {
+    width: 960px;
+    background-color: black;
 }
