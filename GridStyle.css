@@ -14,6 +14,13 @@
     /* the following function seems not working */
     /* grid-template-columns: 1fr, minmax(150px, 1fr); */
     /* grid-template-columns: 100px auto 100px; */
+    /* gap: 2%; */
+    /* row-gap: 2%;
+    column-gap: 2%; */
+    /* define area to form a group */
+    /* using a letter to express a grid, any letter works */
+    grid-template-areas: 'a b c' 'd e f' 'g h i';
+    grid-auto-flow: column;
 }
 
 .item-1 {
