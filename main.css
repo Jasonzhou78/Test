@@ -1,0 +1,28 @@
+.col1 {
+    width: 6.866%;
+    height: 40px;
+    width: 6.866%;
+    background-color: aquamarine;
+    color: brown;
+    display: inline-block;
+}
+
+.col2 {
+    width: 6.866%;
+    height: 40px;
+    width: 15.33%;
+    background-color: grey;
+    color: black;
+    display: inline-block;
+}
+
+
+/* .col {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1.6%;
+} */
+
+.col:first-child {
+    margin-left: 0;
+}
