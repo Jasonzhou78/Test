@@ -155,11 +155,17 @@ table {
 }
 
 .col1:first-of-type {
-    margin: 1% 0 1% 0;
+    margin: 1% 0 1% 0px;
 }
 
 div#container {
     width: 960px;
     background-color: black;
     box-sizing: border-box;
+}
+
+div#p {
+    width: 960px;
+    box-sizing: border-box;
+    margin: 5px 0 5px 5px;
 }
