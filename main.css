@@ -4,6 +4,7 @@
     background-color: aquamarine;
     color: brown;
     display: inline-block;
+    margin: 1% 0 1% 1.6%;
 }
 
 .col2 {
@@ -13,12 +14,6 @@
     background-color: grey;
     color: springgreen;
     display: inline-block;
-}
-
-.col {
-    display: block;
-    float: left;
-    margin: 1% 0 1% 1.6%;
 }
 
 .col:first-child {
