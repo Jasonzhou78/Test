@@ -16,7 +16,7 @@
     display: inline-block;
 }
 
-.col:first-child {
+.col1:first-of-type {
     margin-left: 0;
 }
 
