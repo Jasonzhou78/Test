@@ -4,4 +4,25 @@
     width: 600px;
     height: 600px;
     border: 10px solid skyblue;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px;
+}
+
+.item-1 {
+    background-color: skyblue;
+    font-size: 50px;
+}
+
+.item-2 {
+    background-color: slateblue;
+    font-size: 50px;
+}
+
+.item-3 {
+    background-color: slategrey;
+    font-size: 50px;
+}
+
+.item-4 {
+    background-color: springgreen font-size: 50px;
 }
